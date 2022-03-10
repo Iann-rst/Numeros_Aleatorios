@@ -6,5 +6,5 @@
 <br/>
 <br/>
 <p align="center">
-  <img src="https://github.com/Iann-rst/Numeros_Aleatorios/blob/main/github_image/GeraNumeroAleatorio1.jpeg" alt="Tela Gerar Números Aleatórios">
+  <img src="https://github.com/Iann-rst/Numeros_Aleatorios/blob/main/github_image/GeraNumeroAleatorio1.jpeg" alt="Tela Gerar Números Aleatórios" height="100px">
 </p>

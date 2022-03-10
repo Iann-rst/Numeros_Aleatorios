@@ -1,6 +1,7 @@
 # Gerar Números Aleatórios
 
 ## Criando aplicação móvel multiplataforma com React Native
+- Aplicativo simples em React Native para gerar números aleatórios.
 
 <br/>
 <br/>

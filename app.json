@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "numerosAleatorios",
+    "slug": "numerosAleatorios",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
